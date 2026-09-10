@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CLVPrinter</string>
+    <string name="bluetooth_permission_reason">CLVPrinter memerlukan akses ke perangkat Bluetooth yang sudah dipasangkan untuk menemukan dan menghubungkan printer. CLVPrinter tidak memindai lokasi.</string>
+    <string name="brand_eyebrow">CLVPRINTER / 58 MM</string>
+    <string name="nav_history">Riwayat</string>
+    <string name="nav_settings">Pengaturan</string>
+    <string name="nav_setup">Siapkan</string>
+    <string name="print_service_name">CLVPrinter — Printer Struk</string>
+    <string name="setup_title">Siapkan printer</string>
+    <string name="version_label">MVP 1.0</string>
+</resources>

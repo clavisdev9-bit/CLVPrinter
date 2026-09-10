@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cobalt">#ff004b86</color>
+    <color name="cobalt_dark">#ff00365f</color>
+    <color name="danger">#ffe4002b</color>
+    <color name="ink">#ff172a53</color>
+    <color name="muted">#ff64748b</color>
+    <color name="paper">#fff7f3ea</color>
+    <color name="paper_white">#fffffcf6</color>
+    <color name="rule">#ffd8d1c4</color>
+    <color name="soft_amber">#fff8ecd9</color>
+    <color name="soft_blue">#ffe7ecfa</color>
+    <color name="soft_green">#ffe4f2eb</color>
+    <color name="soft_red">#fff8e5e2</color>
+    <color name="success">#ff167d5a</color>
+    <color name="warning">#ffb66a13</color>
+</resources>

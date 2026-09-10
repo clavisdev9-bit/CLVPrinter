@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="128dp"
+    android:width="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Circular badge background -->
+    <path
+        android:fillColor="#004B86"
+        android:pathData="M64,8 C33.6,8 8,33.6 8,64 C8,94.4 33.6,120 64,120 C94.4,120 120,94.4 120,64 C120,33.6 94.4,8 64,8 Z"/>
+
+    <!-- Inner circle -->
+    <path
+        android:fillColor="#fffcf6"
+        android:pathData="M64,16 C38.4,16 16,38.4 16,64 C16,89.6 38.4,112 64,112 C89.6,112 112,89.6 112,64 C112,38.4 89.6,16 64,16 Z"/>
+
+    <!-- Printer icon -->
+    <path
+        android:fillColor="#004B86"
+        android:pathData="M32,44 H96 V68 H32 Z"/>
+
+    <!-- Paper tray -->
+    <path
+        android:fillColor="#E4002B"
+        android:pathData="M36,72 H92 L92,92 Q92,96 88,96 H40 Q36,96 36,92 Z"/>
+
+    <!-- Roll indicator -->
+    <path
+        android:fillColor="#172A53"
+        android:pathData="M52,50 Q52,54 56,54 Q60,54 60,50"/>
+</vector>

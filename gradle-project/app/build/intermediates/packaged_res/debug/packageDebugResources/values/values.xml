@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cobalt">#004B86</color>
+    <color name="cobalt_dark">#00365F</color>
+    <color name="danger">#E4002B</color>
+    <color name="ink">#172A53</color>
+    <color name="muted">#64748b</color>
+    <color name="navy">#172A53</color>
+    <color name="navy_dark">#101E3B</color>
+    <color name="navy_darker">#0B152B</color>
+    <color name="paper">#f7f3ea</color>
+    <color name="paper_white">#fffcf6</color>
+    <color name="primary">#004B86</color>
+    <color name="primary_dark">#00365F</color>
+    <color name="primary_darker">#002A49</color>
+    <color name="rule">#d8d1c4</color>
+    <color name="secondary">#E4002B</color>
+    <color name="secondary_dark">#B80023</color>
+    <color name="secondary_darker">#92001C</color>
+    <color name="soft_amber">#f8ecd9</color>
+    <color name="soft_blue">#e7ecfa</color>
+    <color name="soft_green">#e4f2eb</color>
+    <color name="soft_red">#f8e5e2</color>
+    <color name="success">#167d5a</color>
+    <color name="warning">#b66a13</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">CLVPrinter</string>
+    <string name="app_tagline">Smart Thermal Printing</string>
+    <style name="Theme.CLVPrinter" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+</resources>
